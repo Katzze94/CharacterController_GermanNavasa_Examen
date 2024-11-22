@@ -4,8 +4,7 @@ using UnityEngine;
 
 public class PlayerController : MonoBehaviour
 {
-   
-   private CharacterController _controller;
+     private CharacterController _controller;
 
    private Transform _camera;
 
@@ -144,5 +143,4 @@ void OnDrawGizmos()
         Gizmos.DrawWireSphere(_sensorPosition.position, _sensorRadius);
     }
 
-   
 }
