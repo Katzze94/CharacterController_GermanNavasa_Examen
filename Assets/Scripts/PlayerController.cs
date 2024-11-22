@@ -45,8 +45,7 @@ public class PlayerController : MonoBehaviour
 
    
    
-   
-   //-----------------------------Funciones-----------------------
+  
 
 
 void Awake()
